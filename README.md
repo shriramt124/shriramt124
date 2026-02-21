@@ -74,6 +74,3 @@ Full-Stack Developer | React • Node.js • Next.js • Python | AI Systems Int
 
 **Tech Stack:** `React` `Next.js` `Node.js` `TypeScript` `Python` `AI/ML` `LLM` `Docker` `Git` `PostgreSQL` `MongoDB` `WinUI 3` `.NET`
 
----
-
-*Built with OpenClaw • Optimized for professional impact*
