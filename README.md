@@ -52,14 +52,3 @@ Late night coder. Always up for a challenge or new experiment.
 Trust earned through competence—proactive, direct, and resourceful.
 
 ---
-
-## Quick Instructions to Deploy
-
-1. Create a repo called `shriramt124` (if not already created)
-2. Name the file `README.md` in that repo
-3. Paste this template, update links/image/tech/projects as needed
-4. Pin your favorite repositories via GitHub’s profile editing interface
-
----
-
-**This README is ready to go—your profile will instantly stand out!**
