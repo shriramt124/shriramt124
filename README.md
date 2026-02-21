@@ -1,54 +1,79 @@
-## 🚀 Shriram Tiwari | Software Engineer & Creator
+## 🚀 Shriram Tiwari | Full-Stack Developer & AI Systems Engineer
 
 ![Banner](https://user-images.githubusercontent.com/your-banner-url/banner.png) <!-- Replace with your image if desired -->
 
-### 👋 Welcome!
-Hi, I’m Shriram—a passionate full stack developer, AI enthusiast, and open source contributor. I love building scalable web apps, optimizing workflows, and experimenting with emerging tech.
+### 👋 Professional Profile
+Full-Stack Developer | React • Node.js • Next.js • Python | AI Systems Intern | 700+ LeetCode
 
-- 🧠 Currently exploring agentic AI, automation, and startup ideas
-- 🌱 Learning: React, Next.js, TypeScript, DevOps, AI/ML
-- ✨ Worked on: YouTube Clone (React/Vite), agentic research bots, smart automation tools
-- 📈 Seeking: cool collaborations, project feedback, and new technologies
-
----
-
-### 🛠️ Tech Stack
-`React` `Node.js` `Vite` `TypeScript` `Python` `Docker` `Git`  
-`AI/ML` `OpenClaw` `Cloudflare` `PostgreSQL`
+- 🧠 Full-Stack Development: React, Next.js, Node.js, Express, TypeScript
+- 🤖 AI/ML Engineering: Python, OpenAI API, LLM integration, NumPy, Pandas
+- 💻 Windows Development: WinUI 3, .NET
+- 🗄️ Database & Tools: MongoDB, PostgreSQL, SQL, Git, Docker, Postman
+- 🏆 Competitive Programming: 700+ problems, 1600+ rating (LeetCode + CodeChef)
 
 ---
 
-### 📌 Pinned Projects
+### 🎯 Current Impact
 
-<!-- Pin your best 3-6 repos as "Top projects" -->
+- **Adkrux (AI Systems Intern):** Building AI agents that optimize 10,000+ e-commerce product listings
+- **Efficiency Gains:** Reduced manual listing work from 40 hours to 2 hours/week (95% efficiency boost)
+- **Tweak Info Services:** Migrated 3+ Laravel applications to Next.js with 60% faster load times
+- **Praevia (Canada):** Developed Windows desktop app using WinUI 3 and .NET
+
+---
+
+### 📌 Featured Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
+| [AI E-commerce Agent](https://github.com/shriramt124/your-repo) | AI agents for optimizing 10,000+ product listings | Python, LLM, OpenAI |
+| [Next.js Migration](https://github.com/shriramt124/your-repo) | Migrated Laravel apps to Next.js (60% faster loads) | Next.js, TypeScript, React |
+| [Windows Desktop App](https://github.com/shriramt124/your-repo) | WinUI 3 desktop application for Praevia | .NET, WinUI 3 |
 | [YouTube Clone](https://github.com/shriramt124/youtube-clone) | Full-featured React app with Vite, custom video player, UX polish | React, Vite |
 | [Agentic Research Bot](https://github.com/shriramt124/agentic-research-bot) | Autonomous research with multi-source validation | Node.js, AI |
 | [Startup Idea Scout](https://github.com/shriramt124/scout) | Finds and summarizes startup ideas from Reddit/HN/YC | Python, Automation |
 
 ---
 
-### 🏆 Achievements
+### 🏆 Competitive Programming
 
-- Created advanced AI research agents with strict validation
-- Contributed to open source agent frameworks (OpenClaw, Gemini, etc.)
-- Automated workflows for daily research and reporting
-- Recognized for clarity, proactivity, and technical depth
+- **700+ problems** solved across LeetCode, CodeChef, Codeforces
+- **1600+ rating** (LeetCode + CodeChef combined)
+- **UCMAS National Champion | International 2nd Runner-up**
+
+---
+
+### 🎓 Education
+
+- **Shri Vaishnav Vidyapeeth Vishwavidyala** (May 2026 Graduation)
+- **CGPA:** 8.18/10
 
 ---
 
 ### 💬 Get In Touch
 
-- Github: [shriramt124](https://github.com/shriramt124)
-- Email: shriramt.124@gmail.com
-- Twitter: [@shriram_ai](https://twitter.com/shriram_ai) <!-- update if you have one -->
-- LinkedIn: [shriram-ti](https://linkedin.com/in/shriram-ti) <!-- update if you have one -->
+- **Github:** [shriramt124](https://github.com/shriramt124)
+- **LinkedIn:** [shriramt124](https://www.linkedin.com/in/shriramt124)
+- **Email:** shriramt.124@gmail.com
+- **Phone:** +91 9516559181
+- **Location:** Indore, India | Open to Remote/Hybrid/Relocation
 
 ---
 
-### ⚡ Fun Fact:
-Late night coder. Always up for a challenge or new experiment.  
-Trust earned through competence—proactive, direct, and resourceful.
+### ⚡ Current Focus
+- ✅ Full-Stack Development (React, Next.js, Node.js, TypeScript)
+- ✅ AI/ML Engineering (LLMs, automation, agent systems)
+- ✅ Software Development (pragmatic, production-ready solutions)
+- ✅ Competitive Programming & Algorithm Design
 
 ---
+
+**Let's connect if you're hiring developers who can deliver production-ready solutions from day one!**
+
+---
+
+**Tech Stack:** `React` `Next.js` `Node.js` `TypeScript` `Python` `AI/ML` `LLM` `Docker` `Git` `PostgreSQL` `MongoDB` `WinUI 3` `.NET`
+
+---
+
+*Built with OpenClaw • Optimized for professional impact*
