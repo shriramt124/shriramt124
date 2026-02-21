@@ -55,8 +55,6 @@ Full-Stack Developer | React • Node.js • Next.js • Python | AI Systems Int
 - **Github:** [shriramt124](https://github.com/shriramt124)
 - **LinkedIn:** [shriramt124](https://www.linkedin.com/in/shriramt124)
 - **Email:** shriramt.124@gmail.com
-- **Phone:** +91 9516559181
-- **Location:** Indore, India | Open to Remote/Hybrid/Relocation
 
 ---
 
